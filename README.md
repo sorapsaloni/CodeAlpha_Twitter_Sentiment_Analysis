@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis (Task 4 - CodeAlpha Internship)
+# Twitter Sentiment Analysis (Task 2 - CodeAlpha Internship)
 
 This project is submitted as **a task (Task 4)** for the CodeAlpha Machine Learning Internship.
 
